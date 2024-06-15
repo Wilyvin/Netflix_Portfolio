@@ -9,3 +9,7 @@ This is our Capstone Project from participated in Independent Studies streaming 
 3. Ira
 4. Revi
 5. Ria
+
+We use Google Colab as our notebook ;)
+
+## Hopefully you enjoy the exploration in our notebook
